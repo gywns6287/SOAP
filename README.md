@@ -29,3 +29,7 @@ We provide the pretrained weights on SemanticKITTI and SSCBench-KITTI360 dataset
 | SSCBench-KITTI360 | EfficientNetB7 | - / -    | 48.2 / 21.2       | [Download](https://drive.google.com/file/d/1A72mzz-I5E5heOaQt3w35TFPSoeigodJ/view?usp=drive_link) |
 | SSCBench-KITTI360       | ResNet50 | -/-  | - / -       | Download |
 
+
+## Acknowledgement
+This project is developed based on the following open-source projects: [VoxFormer](https://github.com/NVlabs/VoxFormer), [OccFormer](https://github.com/zhangyp15/OccFormer), and [CGFormer](https://github.com/pkqbajng/CGFormer).
+We would like to thank the authors of these works for their excellent contributions.
