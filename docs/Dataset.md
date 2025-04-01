@@ -2,10 +2,7 @@
 
 ### a. SemanticKITTI
 To prepare the SemanticKITTI dataset, first download the [KITTI Odometry Dataset](https://www.cvlibs.net/datasets/kitti/eval_odometry.php) (including color and calibration files), along with the annotations for Semantic Scene Completion from [SemanticKITTI](http://www.semantic-kitti.org/dataset.html#download).
-
-To generate the pseudo-depth maps, you can follow the preprocessing steps from [VoxFormer](https://github.com/NVlabs/VoxFormer/tree/main/preprocess).
-
-Place all `.zip` files under `SOAP/data/SemanticKITTI` and unzip them. After extraction, your dataset directory should look like this:
+Please follow the command [image2depth_semantickitti.sh](https://github.com/gywns6287/SOAP/blob/main/preprocess/image2depth_semantickitti.sh) to create depth maps. Place all `.zip` files under `SOAP/data/SemanticKITTI` and unzip them. After extraction, your dataset directory should look like this:
 ```
 SOAP
 ├── data/
@@ -30,7 +27,7 @@ SOAP
 ```
 
 ### b. SSCBench-KITTI360 
-Download the dataset from [SSCBench-KITTI-360](https://github.com/ai4ce/SSCBench), and prepare the depth maps by following the preprocessing steps from [VoxFormer](https://github.com/NVlabs/VoxFormer/tree/main/preprocess).  After setup, your dataset directory should look like this:
+Download the dataset from [SSCBench-KITTI-360](https://github.com/ai4ce/SSCBench), and prepare the depth maps by following the preprocessing steps from [image2depth_semantickitti.sh](https://github.com/gywns6287/SOAP/blob/main/preprocess/image2depth_kitti360.sh).  After setup, your dataset directory should look like this:
 ```
 SOAP
 ├── data/
