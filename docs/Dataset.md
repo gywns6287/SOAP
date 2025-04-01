@@ -27,7 +27,7 @@ SOAP
 ```
 
 ### b. SSCBench-KITTI360 
-Download the dataset from [SSCBench-KITTI-360](https://github.com/ai4ce/SSCBench), and prepare the depth maps by following the preprocessing steps from [image2depth_semantickitti.sh](https://github.com/gywns6287/SOAP/blob/main/preprocess/image2depth_kitti360.sh).  After setup, your dataset directory should look like this:
+Download the dataset from [SSCBench-KITTI-360](https://github.com/ai4ce/SSCBench), and prepare the depth maps by following the preprocessing steps from [image2depth_kitti360.sh](https://github.com/gywns6287/SOAP/blob/main/preprocess/image2depth_kitti360.sh).  After setup, your dataset directory should look like this:
 ```
 SOAP
 ├── data/
