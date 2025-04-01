@@ -11,4 +11,13 @@ This repo is the official Code of SOAP: Vision-Centric 3D Semantic Scene Complet
 [3] Check [train_eval_test](https://github.com/gywns6287/SOAP/blob/main/docs/train_eval_test.md) for training, evaluation, and test submission.
 
 
+## Model Zoo
+We provide the pretrained weights on SemanticKITTI and SSCBench-KITTI360 datasets. 
+
+| Dataset             | Backbone     | Val IoU / mIoU | Test IoU / mIoU | Model Weights |
+|---------------------|--------------|----------------|------------------|----------------|
+| SemanticKITTI       | EfficientNetB7 | 47.2 / 19.2    | 46.1 / 19.1       | [Download](link1) |
+| SemanticKITTI       | ResNet50 | 48.1 / 18.8    | 47.5 / 18.7       | [Download](link1) |
+| SSCBench-KITTI360 | EfficientNetB7 | 47.2 / 19.2    | 48.2 / 21.2       | [Download](link1) |
+| SSCBench-KITTI360       | ResNet50 | -/-  | - / -       | Download |
 
