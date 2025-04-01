@@ -26,6 +26,6 @@ We provide the pretrained weights on SemanticKITTI and SSCBench-KITTI360 dataset
 |---------------------|--------------|----------------|------------------|----------------|
 | SemanticKITTI       | EfficientNetB7 | 47.2 / 19.2    | 46.1 / 19.1       | [Download](https://drive.google.com/file/d/1MQt6FoVI7xRoseC97UWmOt0zhp3nNrgU/view?usp=drive_link) |
 | SemanticKITTI       | ResNet50 | 48.1 / 18.8    | 47.5 / 18.7       | [Download](https://drive.google.com/file/d/13HeZdzJNb0ld-i2-L_BCth7z9M9FswQW/view?usp=drive_link) |
-| SSCBench-KITTI360 | EfficientNetB7 | 47.2 / 19.2    | 48.2 / 21.2       | [Download](https://drive.google.com/file/d/1A72mzz-I5E5heOaQt3w35TFPSoeigodJ/view?usp=drive_link) |
+| SSCBench-KITTI360 | EfficientNetB7 | - / -    | 48.2 / 21.2       | [Download](https://drive.google.com/file/d/1A72mzz-I5E5heOaQt3w35TFPSoeigodJ/view?usp=drive_link) |
 | SSCBench-KITTI360       | ResNet50 | -/-  | - / -       | Download |
 
