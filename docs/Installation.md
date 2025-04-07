@@ -39,7 +39,7 @@ cd ..
 **e. build multi-scal deformable attention**
 
 ```shell
-cd projects/mmdet3d_plugin/bira/necks/ops/
+cd projects/mmdet3d_plugin/soap/necks/ops/
 python setup.py install
 cd -
 ```
