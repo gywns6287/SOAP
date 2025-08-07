@@ -33,3 +33,5 @@ We provide the pretrained weights on SemanticKITTI and SSCBench-KITTI360 dataset
 ## Acknowledgement
 This project is developed based on the following open-source projects: [VoxFormer](https://github.com/NVlabs/VoxFormer), [OccFormer](https://github.com/zhangyp15/OccFormer), and [CGFormer](https://github.com/pkqbajng/CGFormer).
 We would like to thank the authors of these works for their excellent contributions.
+
+We welcome any feedback regarding bug fixes or efficiency improvements!
